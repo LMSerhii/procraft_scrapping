@@ -1,0 +1,2 @@
+<div class="panel-body tb_product_description tb_text_wrap">
+</div>
