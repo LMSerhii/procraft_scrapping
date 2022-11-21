@@ -260,7 +260,7 @@ def download_txt():
 
                     print(f"Item: {count}/{items_count} is completed")
 
-
+                    # new comment
 def main():
     print(get_data())
     download_txt()
